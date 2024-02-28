@@ -2,7 +2,7 @@
 My first Game Boy Game.
 
 ## Introduction
-This game consists of a 2-D platform basic game where the main character can jump and move forard and backward as weel as shooting to enemies that move around the map.
+This game consists of a 2-D platform basic game where the main character can jump and move forard and backward as weel as shooting to enemies that move around the map. It was programmed in the programming language C using the cross-platform development kit GBDK.
 
 ## GBDK
 The whole game has been programmed and compiled with the cross-platform development kit GBDK.  
